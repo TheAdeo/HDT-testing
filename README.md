@@ -22,9 +22,9 @@ The test object shall be scaled to account for material shrinkage during the pri
 
 | Dimension  | Value (mm) |
 | :--------- | :--------: |
-| Length     | 140 ±0.05 |
-| Width      | 20 ±0.05  |
-| Thickness  | 2 ±0.05   |
+| Length     | 140 ±0.2   |
+| Width      | 20 ±0.2    |
+| Thickness  | 2 ±0.1     |
 
 The object has to be printed with a 0.4mm/0.5mm nozzle, and the following settings have to be used in the slicer:
 
