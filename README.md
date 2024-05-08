@@ -21,7 +21,7 @@ The test object shall be printed with the flat reference face laying downwards o
 The test object shall be scaled to account for material shrinkage during the printing process, so that the top reference surface is within the following dimensions:
 
 | Dimension  | Value (mm) |
-| ---------- | ---------- |
+| :--------- | :--------: |
 | Length     | 140 ±0.05 |
 | Width      | 20 ±0.05  |
 | Thickness  | 2 ±0.05   |
@@ -29,7 +29,7 @@ The test object shall be scaled to account for material shrinkage during the pri
 The object has to be printed with a 0.4mm/0.5mm nozzle, and the following settings have to be used in the slicer:
 
 | Setting              | Value             |
-| ----------           | ----------        |
+| :----------          | :----------:      |
 | Line Width           | 0.8mm             |
 | Layer Height         | 0.2mm             |
 | N° of Perimeters     | 4                 |
