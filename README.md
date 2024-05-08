@@ -46,7 +46,7 @@ It is reccommended to note them and add them near the test results to make them 
 ### • Test A - 1.8MPa (similar to HDT/A)
 The bridge shall be loaded with 4 standard ISO 4032 or DIN 934 steel nuts (17.3g each), making sure they are stacked on top of each other securely and located in the middle of the bridge (marked with a line on the underside).
 
-### • Test B - 0.45Pa (similar to HDT/B)
+### • Test B - 0.45MPa (similar to HDT/B)
 The bridge shall be loaded with 1 standard ISO 4032 or DIN 934 steel nuts (17.3g), making sure it is located in the middle of the bridge (marked with a line on the underside).
 
 ### • Temperature Rise
