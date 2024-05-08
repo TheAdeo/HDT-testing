@@ -17,6 +17,7 @@ Two load cases are suggested, to try and match the HDT/A and HDT/B values common
 A printed sample in the shape of a bridge is put inside a temperature controlled oven and slowly heat up. As soon as there is visible deformation the test is over and the last temperature value before the deformation is assumed to be the test result.
 
 ### • Printing Parameters
+The test object shall be printed with the flat reference face laying downwards on the build plate.
 The test object shall be scaled to account for material shrinkage during the printing process, so that the top reference surface is within the following dimensions:
 
 | Dimension  | Value (mm) |
