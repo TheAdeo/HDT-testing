@@ -75,6 +75,9 @@ The test stops when the middle of the test bridge touches the top of the pillar.
 The results shall be distributed by specifying which load was used, and what were the _Hotend Temperature_, _Chamber Temperature_ and _Cooling Fan Percentage_ used for printing the sample.
 The temperature chosen as the test result is 1° less than the temperature recorded at the end of the test.
 
+### • Automation
+To automate the test and to get more accurate results, it is recommended to attach copper/aluminium tape on the bottom of the bridge and on the top of the pillar, and connect them to two pins on an Arduino or a Raspberry Pi, so that when the objects touch and the test end, the circuit is closed and a signal is sent to the microcontroller.
+
 <!-------------------------------------------------------------------------------------------------->
 </br>
 
