@@ -60,7 +60,9 @@ The test bridge shall be loaded with 1 standard ISO 4032 or DIN 934 steel nuts (
 ### • Pillar Positioning
 The test pillar shall be positioned under the middle of the bridge, such as the thin part at the top runs perpendicular to the span of the test bridge.
 
-Test setup image
+<picture>
+  <img alt="Test setup image" src="/HDT_Setup.png">
+</picture>
 
 ### • Shielding
 The test objects shall be shielded with some aluminium foil from radiant sources of heat of the oven, by making a foil barrier between the emitting source and the object.
