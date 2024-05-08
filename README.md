@@ -75,4 +75,5 @@ A lot of parameters were chosed seemingly arbitrarily, so I'll have to add a rea
 I'm currently thinking about a more repeatable method to determine the exact temperature a specific deformation occurs, to make the test less dependant on human decisions
 
 You can also download the model on Printables for free to support me:
+
 https://www.printables.com/it/model/873223-heat-deflection-temperature-hdt-tester
