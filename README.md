@@ -17,8 +17,8 @@ Two load cases are suggested, to try and match the HDT/A and HDT/B values common
 A printed sample in the shape of a bridge is put inside a temperature controlled oven and slowly heat up. As soon as there is visible deformation the test is over and the last temperature value before the deformation is assumed to be the test result.
 
 ### • Printing Parameters
-The test bridge shall be printed with the flat rectangular reference face laying downwards on the build plate.
-The test pillar shall be printed with the flat rectangular reference face laying downwards on the build plate.
+The test bridge shall be printed with the flat rectangular reference face laying downwards on the build plate. <br />
+The test pillar shall be printed with the flat rectangular reference face laying downwards on the build plate. <br />
 The test parts shall be scaled to account for material shrinkage during the printing process, so that the top reference surface of the bridge is within the following dimensions:
 
 | Dimension  | Value (mm) |
@@ -43,12 +43,11 @@ The objects shall be printed with a 0.4mm/0.5mm nozzle, and the following settin
 | Print Speed          | 30mm/s              |
 | Extrusion Multiplier | 1.05                |
 
-These settings have been chosen to get maximum possible strength to the part and maximize compatibility, and have been fixed to remove variability in the results.
-The three parameters that have been left to be changed depending on the material are _Hotend Temperature_, _Chamber Temperature_ and _Cooling Fan Percentage_.
-It is reccommended to note them and add them near the test results to make them valid and reproducible.
+These settings have been chosen to get maximum possible strength to the part and maximize compatibility, and have been fixed to remove variability in the results. <br />
+The three parameters that have been left to be changed depending on the material are _Hotend Temperature_, _Chamber Temperature_ and _Cooling Fan Percentage_. <br />
+It is reccommended to note them and add them near the test results to make them valid and reproducible. <br />
 
-Before printing it has to be verified that when requesting 100mm of extrusion, 100mm of filament are extruded. If not an e-steps calibration must be performed.
-
+Before printing it has to be verified that when requesting 100mm of extrusion, 100mm of filament are extruded. If not an e-steps calibration must be performed. <br />
 The filament diameter must be measured with a caliper and set correctly in the slicer.
 
 ### • Test A - 1.8MPa (similar to HDT/A)
@@ -68,7 +67,7 @@ The test pillar shall be positioned under the middle of the bridge, such as the 
 The test objects shall be shielded with some aluminium foil from radiant sources of heat of the oven, by making a foil barrier between the emitting source and the object.
 
 ### • Temperature Rise
-The oven shall be set with a ramp starting from 25°C rising 1°C/min, to make sure the parts can stabilize at the oven temperature and to give time for the parts to flex when they reach the softening point corresponding to the specified test.
+The oven shall be set with a ramp starting from 25°C rising 1°C/min, to make sure the parts can stabilize at the oven temperature and to give time for the parts to flex when they reach the softening point corresponding to the specified test. <br />
 The test stops when the middle of the test bridge touches the top of the pillar.
 
 ### • Results
