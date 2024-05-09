@@ -1,6 +1,6 @@
 # HDT Testing Standard
 ## Introduction
-This is an attempt at craeating an easy to follow procedure for standardised HDT testing of 3D printing polymers, taking inspiration from the ISO 75 methods.
+This is an attempt at creating an easy to follow procedure for standardised HDT testing of 3D printing polymers, taking inspiration from the ISO 75 methods.
 
 As I haven't bought the ISO 75 standard publication, and considering the difficulties of actually making something easily reproducible by anyone with a 3D printer and a PID tuned oven, I have drafted the parameters of the test to make it simpler, losing some accuracy in the process.
 This accuracy loss is not a problem as traditional ISO 75 tests require injection molded parts, as with FDM 3D printed parts too many parameters, some of which are not controllable, can influence the results.
