@@ -30,18 +30,18 @@ The test parts shall be scaled to account for material shrinkage during the prin
 
 The objects shall be printed with a 0.4mm/0.5mm nozzle, and the following settings have to be used in the slicer:
 
-| Setting              | Value             |
-| :----------          | :----------:      |
-| Line Width           | 0.8mm             |
-| Layer Height         | 0.2mm             |
-| N° of Perimeters     | 4                 |
-| N° of Top Layers     | 0                 |
-| N° of Bottom Layers  | 0                 |
-| Infill %             | 100%              |
-| Infill Type          | Rectilinear/Lines |
-| Infill Angle         | 45°               |
-| Print Speed          | 30mm/s            |
-| Extrusion Multiplier | 1.05              |
+| Setting              | Value               |
+| :----------          | :----------:        |
+| Line Width           | 0.65mm              |
+| Layer Height         | 0.2mm               |
+| N° of Perimeters     | 4                   |
+| N° of Top Layers     | 0                   |
+| N° of Bottom Layers  | 0                   |
+| Infill %             | 100%                |
+| Infill Type          | Aligned Rectilinear |
+| Infill Angle         | 0°                  |
+| Print Speed          | 30mm/s              |
+| Extrusion Multiplier | 1.05                |
 
 These settings have been chosen to get maximum possible strength to the part and maximize compatibility, and have been fixed to remove variability in the results.
 The three parameters that have been left to be changed depending on the material are _Hotend Temperature_, _Chamber Temperature_ and _Cooling Fan Percentage_.
