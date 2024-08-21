@@ -51,13 +51,15 @@ Before printing it has to be verified that when requesting 100mm of extrusion, 1
 The filament diameter must be measured with a caliper and set correctly in the slicer.
 
 ### • Test A - 1.8MPa (similar to HDT/A)
-The test bridge shall be loaded with 4 standard ISO 4032 or DIN 934 steel nuts (17.3g each), making sure they are stacked on top of each other securely and located in the middle of the bridge (marked with a line on the underside).
+The test bridge shall be loaded with 4 standard ISO 4032 or DIN 934 M12 steel nuts (17.3g each), making sure they are stacked on top of each other securely and located in the middle of the bridge (marked with a line on the underside).
 
 ### • Test B - 0.45MPa (similar to HDT/B)
-The test bridge shall be loaded with 1 standard ISO 4032 or DIN 934 steel nuts (17.3g), making sure it is located in the middle of the bridge (marked with a line on the underside).
+The test bridge shall be loaded with 1 standard ISO 4032 or DIN 934 M12 steel nuts (17.3g), making sure it is located in the middle of the bridge (marked with a line on the underside).
 
 ### • Pillar Positioning
 The test pillar shall be positioned under the middle of the bridge, such as the thin part at the top runs perpendicular to the span of the test bridge.
+
+Note: the test pillar shall be scaled before printing to make sure it's 1mm lower than the lowest point of the loaded bridge
 
 <picture>
   <img alt="Test setup image" src="/HDT_Setup.png">
@@ -67,7 +69,7 @@ The test pillar shall be positioned under the middle of the bridge, such as the 
 The test objects shall be shielded with some aluminium foil from radiant sources of heat of the oven, by making a foil barrier between the emitting source and the object.
 
 ### • Temperature Rise
-The oven shall be set with a ramp starting from 25°C rising 1°C/min, to make sure the parts can stabilize at the oven temperature and to give time for the parts to flex when they reach the softening point corresponding to the specified test. <br />
+The oven shall be set with a ramp starting from 25°C rising 0.5°C/min, to make sure the parts can stabilize at the oven temperature and to give time for the parts to flex when they reach the softening point corresponding to the specified test. <br />
 The test stops when the middle of the test bridge touches the top of the pillar.
 
 ### • Results
