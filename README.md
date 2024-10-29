@@ -42,6 +42,8 @@ The test object shall be printed with a 0.4mm/0.5mm nozzle, and the following se
 | Print Speed          | 30mm/s              |
 | Extrusion Multiplier | 1.05                |
 
+Both the Classic and Arachne slicing engines are allowed. <br />
+
 These settings have been chosen to get maximum possible strength to the sample and maximize compatibility, and have been fixed to remove variability in the results. <br />
 The three parameters that have been left to be changed depending on the material are _Hotend Temperature_, _Chamber Temperature_ and _Cooling Fan Percentage_. <br />
 It is reccommended to note them and add them near the test results to make them valid and reproducible. <br />
