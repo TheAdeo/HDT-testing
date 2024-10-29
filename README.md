@@ -91,4 +91,4 @@ I'm currently thinking about a more repeatable method to determine the exact tem
 
 You can also download the model on Printables for free to support me:
 
-https://www.printables.com/it/model/873223-heat-deflection-temperature-hdt-tester
+https://www.printables.com/model/1055576-heat-deflection-temperature-hdt-tester-v2
