@@ -87,6 +87,14 @@ Multiple samples are highly suggested, in that case the result is the arithmetic
 
 ---
 
+## Automation
+The deflection identification can be automated to allow for zero supervision tests. This requires adding some aluminum tape to the bottom of the bridge, and attaching one wire to the tape and one wire to the screw of the height gauge. The wires can be attached to something that detects the closing of the circuit, like a LED or an Arduino, so that when the circuit is completed the temperature is recorded as the result and the test ends.
+
+<!-------------------------------------------------------------------------------------------------->
+</br>
+
+---
+
 ## Calculation of the stresses in each test case
 In this section I'll add the calculations that led me to choose the size and loads to match the ISO 75 standard.
 
