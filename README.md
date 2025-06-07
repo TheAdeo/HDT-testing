@@ -62,7 +62,8 @@ The test sample shall be loaded with 4 standard ISO 4032 or DIN 934 M12 steel nu
 The test sample shall be loaded with 1 standard ISO 4032 or DIN 934 M12 steel nuts (17.3g), making sure it is located in the middle of the bridge (marked with lines on the underside).
 
 ### • Height Gauge Setup
-After loading the bridge with the nuts, the M3x8 screw on the height gauge shall to be fixed at 1mm below the bottom surface of the bridge by tightening the M3 nut (that acts as a jam nut) against the M3 threaded insert. The 1mm could be measured with calipers subtracting the height of the gauge from the height of the loaded bridge, or by using a 1±0.1mm shim.
+The height gauge requires a M3x5x4mm or M3x5x5mm threaded insert, installed from the top side. <br />
+After loading the bridge with the nuts, a M3x8 screw (SHCS or hex bolt recommended) on the height gauge shall be fixed at 1mm below the bottom surface of the bridge by tightening a M3 nut (that acts as a jam nut) against the M3 threaded insert. The 1mm could be measured with calipers subtracting the height of the gauge from the height of the loaded bridge, or by using a 1±0.1mm shim. <br />
 Different setups are allowed, as long as they can be tuned so that the fail criteria is 1mm of additional deformation after the test start.
 
 <picture>
