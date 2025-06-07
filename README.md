@@ -95,10 +95,8 @@ In this section I'll add the calculations that led me to choose the size and loa
 ---
 
 ## Comments
-THE FILES ARE OUTDATED, I STILL HAVE TO UPLOAD THE NEW FILES
-
 I have to add the calculations that led me to these parameters.
 I have to explain a way to automate the test, to remove the human factor entirely.
-You can also download the model on Printables for free to support me:
+You can also download the model on Printables for free to support me (not updated to v3.0 yet, still v2.0 files):
 
 https://www.printables.com/model/1055576-heat-deflection-temperature-hdt-tester-v2
