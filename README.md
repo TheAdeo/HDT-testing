@@ -1,4 +1,4 @@
-# HDT Testing Standard v3.0
+# DIY HDT Testing Standard v3.0
 ## Introduction
 This is an attempt at creating an easy to follow procedure for an easy and DIY standardised HDT testing of 3D printing polymers, taking inspiration from the ISO 75 methods.
 
