@@ -1,4 +1,4 @@
-# DIY HDT Testing Standard v3.0
+# DIY HDT Testing Standard v3.1
 ## Introduction
 This is an attempt at creating an easy to follow procedure for an easy and DIY standardised HDT testing of 3D printing polymers, taking inspiration from the ISO 75 methods.
 
@@ -55,11 +55,11 @@ It is reccommended to note them and add them near the test results to make them 
 Before printing it has to be verified that when requesting 100mm of extrusion, 100mm of filament are extruded. If not an e-steps calibration must be performed. <br />
 The filament diameter must be measured with a caliper and set correctly in the slicer.
 
-### • Test A - 1.8MPa (similar to HDT/A)
+### • Test A - 1.8MPa (similar to HDT/A) - RECOMMENDED TEST
 The test sample shall be loaded with 4 standard ISO 4032 or DIN 934 M12 steel nuts (17.3g each), making sure they are stacked on top of each other securely and located in the middle of the bridge (marked with lines on the underside).
 
-### • Test B - 0.45MPa (similar to HDT/B)
-The test sample shall be loaded with 1 standard ISO 4032 or DIN 934 M12 steel nuts (17.3g), making sure it is located in the middle of the bridge (marked with lines on the underside).
+### • Test B - 0.45MPa (similar to HDT/B) - DEPRECATED, DO NOT USE
+~The test sample shall be loaded with 1 standard ISO 4032 or DIN 934 M12 steel nuts (17.3g), making sure it is located in the middle of the bridge (marked with lines on the underside).~
 
 ### • Height Gauge Setup
 The height gauge requires a M3x5x4mm or M3x5x5mm threaded insert, installed from the top side. <br />
